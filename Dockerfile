@@ -18,3 +18,5 @@ EXPOSE 8081
 
 # Define the command to run your app using CMD which defines your runtime
 CMD [ "npm", "start" ]
+
+
